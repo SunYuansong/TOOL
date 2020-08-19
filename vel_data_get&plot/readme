@@ -1,0 +1,3 @@
+用于对/cmd_vel /odom的速度提取及画图工具
+使用get_velocity.sh从bag获取规划和控制的速度角速度
+使用plot_velocity.py绘制曲线
